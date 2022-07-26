@@ -1,0 +1,24 @@
+Repo WordPress & Database Information
+
+Repo:
+https://github.com/mikehchase/it320-tutorial-05-win2022
+
+git clone https://github.com/mikehchase/it320-tutorial-05-win2022.git .    <== CORRECT
+
+git clone https://github.com/mikehchase/it320-tutorial-05-win2022.git   <== NOT CORRECT - missing period at end
+
+git clone git@github.com:mikehchase/it320-tutorial-05-win2022.git .  <== Not CORRECT - Security Error
+
+
+GitHub REPO URL:https://github.com/mikehchase/it320-tutorial-05-win2022
+WP Admin username: student
+WP admin password: xxx123!!!
+MySQL Original DB name: wordpress
+MySQL Original DB Prefix: wp_
+MySQL DB username: root
+MySQL DB password: Winter2020
+Encryption passphrase: Winter2020
+WP Admin users:
+Username: student Password: xxx123!!!
+Username: UserIT320 Password: IT320@Winter2020!
+
